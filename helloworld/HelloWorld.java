@@ -15,8 +15,8 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
-        
+        System.out.println("di na indian. kalabaw na");
+        System.out.println("BUMBAYSIYA");
     }
     
 }
